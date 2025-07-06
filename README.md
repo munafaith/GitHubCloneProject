@@ -1,1 +1,3 @@
-This is the description of my repo
+## Objective
+
+This task demonstrates branching, feature development, and resolving merge conflicts.
